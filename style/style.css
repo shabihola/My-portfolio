@@ -1,0 +1,107 @@
+body {
+   background-color: #eee;
+} 
+
+a {
+   color: #000000;
+   text-decoration: none;
+}
+
+.main-page {
+   text-align: center;
+   padding-top: 20px;
+}
+
+#main-grid {
+   padding: 2.5rem;
+   padding-top: 20px;
+   margin: auto;
+   background-color: palevioletred;
+   margin-top: 30px;
+   border-radius: 0.25rem;
+   max-width: 1230px;
+}
+#name {
+   font-size: xx-large;
+   padding-top: 30px;
+   height: 100px;
+}
+
+#about-me > p{
+   /* max-width: 600px; */
+   padding-top: 20px;
+   font-size: x-large;
+   padding-bottom: 40px;
+}
+
+#html-projects {
+   
+}
+
+.projects-header {
+   padding-top: 20px;
+   border-bottom: 0.2rem solid white;
+}
+
+
+.projects-box {
+   border-radius: 3px;
+   border: 1px solid #000000;
+   border-width: 50%;
+   width: 100%;
+   height: 200px;
+   background-color: #45567d;
+   padding-top: 40px;
+}
+
+.Portfolio {
+   padding-bottom: 15px;
+}
+
+.Survey {
+   padding-bottom: 15px;
+}
+
+.Documentation {
+   padding-bottom: 15px;
+}
+
+.Tribute {
+   padding-bottom: 15px;
+}
+
+.Landing-page {
+   padding-bottom: 15px;
+}
+#contact-links {
+   margin-bottom: 20px;
+   font-size: larger;
+   font-weight: bold;
+}
+
+i {
+   margin-left: 10px;
+}
+
+footer {
+   display: flex;
+   justify-content: space-evenly;
+   padding: 20px;
+   padding-right: 5px;
+   margin-right: 5px;
+   background-color: #303841;
+   
+}
+
+footer > p {
+   margin: 20px; 
+   margin-right: 500px; 
+}
+
+.gmail {
+   margin-left: 10px;
+   margin-top: 20px;
+}
+
+
+
